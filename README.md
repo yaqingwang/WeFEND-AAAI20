@@ -22,7 +22,7 @@ We propose a reinforced weaklysupervised fake news detection framework, i.e., We
 which can __leverage users’ reports as weak supervision__ to enlarge the amount of training data for fake news detection.
 
 ## Experiment
-In this subsection, we aim to answer two important questions:
+We aim to answer two important questions:
   * Does the distribution of news change with time?
   * why should we use the reports to annotate the fake
 news?
