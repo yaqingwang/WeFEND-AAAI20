@@ -13,7 +13,8 @@ To be updated: Dataset for paper "Weak Supervision for Fake News Detection via R
  
  
  ## Main Idea
-__Challenge__: Due to the __dynamic nature__ of news, annotated samples may become __outdated__ quickly and cannot represent the news articles on newly emerged events. Therefore, how to obtain __fresh and
+ ### Challenge: 
+Due to the __dynamic nature__ of news, annotated samples may become __outdated__ quickly and cannot represent the news articles on newly emerged events. Therefore, how to obtain __fresh and
 high-quality labeled samples__ is the major challenge in employing deep learning models for fake news detection.
 
 __Solution__: We propose a reinforced weaklysupervised fake news detection framework, i.e., WeFEND,
