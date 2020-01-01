@@ -27,11 +27,10 @@ We aim to answer two important questions:
   * why should we use the reports to annotate the fake
 news?
 
-<img src="https://github.com/yaqingwang/EANN-KDD18/blob/master/Fig/Accuracy.png" width="300">  <img src="https://github.com/yaqingwang/EANN-KDD18/blob/master/Fig/F1.png" width="300">
+<img src="https://github.com/yaqingwang/WeFEND-AAAI20/blob/master/figs/current_fake_real.pdf" width="300">  <img src="https://github.com/yaqingwang/WeFEND-AAAI20/blob/master/figs/future_fake_real.pdf" width="300">
 
-The feature representations learned by the proposed model EANN (right) are more discriminable than fake news detection (w/o adv).
 
-<img src="https://github.com/yaqingwang/EANN-KDD18/blob/master/Fig/baseline_tsne.png" width="256">  <img src="https://github.com/yaqingwang/EANN-KDD18/blob/master/Fig/model_tsne.png" width="256">
+<img src="https://github.com/yaqingwang/WeFEND-AAAI20/blob/master/figs/fake_news.pdf" width="256">  <img src="https://github.com/yaqingwang/WeFEND-AAAI20/blob/master/figs/fake_reports.pdf" width="256">
  
 
 
