@@ -31,7 +31,7 @@ news?
 
 
 
-<img src="https://github.com/yaqingwang/WeFEND-AAAI20/blob/master/figs/fake_news.jpg" width="256">  <img src="https://github.com/yaqingwang/WeFEND-AAAI20/blob/master/figs/fake_reports.jpg" width="256">
+<img src="https://github.com/yaqingwang/WeFEND-AAAI20/blob/master/figs/fake_news.jpg" width="300">  <img src="https://github.com/yaqingwang/WeFEND-AAAI20/blob/master/figs/fake_reports.jpg" width="300">
  
 
 
