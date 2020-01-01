@@ -23,9 +23,9 @@ which can __leverage users’ reports as weak supervision__ to enlarge the amoun
 
 ## Experiment
 In this subsection, we aim to answer two important questions:
-  *Does the distribution of news change with time?*
-  *why should we use the reports to annotate the fake
-news?*
+  * Does the distribution of news change with time?
+  * why should we use the reports to annotate the fake
+news?
 
 <img src="https://github.com/yaqingwang/EANN-KDD18/blob/master/Fig/Accuracy.png" width="300">  <img src="https://github.com/yaqingwang/EANN-KDD18/blob/master/Fig/F1.png" width="300">
 
