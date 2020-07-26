@@ -1,3 +1,14 @@
+
+## Dataset
+```
+[2020-07-26] We collected more data and make it public.
+└── data/    
+    └── train/
+    └── test/
+    └── unlabeled data/
+The Report Content is can be splited based on ##.
+```
+
 # WeFEND-AAAI20
 
 
@@ -32,16 +43,3 @@ news?
 
 
 <img src="https://github.com/yaqingwang/WeFEND-AAAI20/blob/master/figs/fake_news.jpg" width="300">  <img src="https://github.com/yaqingwang/WeFEND-AAAI20/blob/master/figs/fake_reports.jpg" width="300">
- 
-
-
-
-## Dataset
-```
-[2020-07-26] We collected more data and make it public.
-└── data/    
-    └── train/
-    └── test/
-    └── unlabeled data/
-       
-```
