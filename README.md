@@ -6,8 +6,9 @@
     └── train/
     └── test/
     └── unlabeled data/
-    
+   
 
+```
 | Columns  |Description   | 
 |---|---|
 |**Official Account Name**   | The name of official account, news publisher <br>  |
@@ -17,7 +18,7 @@
 |**Report Content**   |The reports from reader, split by ## <br> |
 |**label**   |label of news, 0 is real and 1 is fake <br> |
 
-```
+
 
 # WeFEND-AAAI20
 
