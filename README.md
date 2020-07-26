@@ -1,6 +1,6 @@
 # WeFEND-AAAI20
 
-2020-07-26. We collected more data and make it public.
+[2020-07-26] We collected more data and make it public.
 
 
 
