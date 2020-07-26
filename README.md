@@ -27,7 +27,7 @@ We aim to answer two important questions:
   * why should we use the reports to annotate the fake
 news?
 
-<img src="https://github.com/yaqingwang/WeFEND-AAAI20/blob/master/figs/current_fake_real.pdf" width="300">  <img src="https://github.com/yaqingwang/WeFEND-AAAI20/blob/master/figs/future_fake_real.pdf" width="300">
+<img src="https://github.com/yaqingwang/WeFEND-AAAI20/blob/master/figs/current_fake_real.jpeg" width="300">  <img src="https://github.com/yaqingwang/WeFEND-AAAI20/blob/master/figs/future_fake_real.jpeg" width="300">
 
 <object data="https://github.com/yaqingwang/WeFEND-AAAI20/blob/master/figs/current_fake_real.pdf" width="300" >
     <embed src="https://github.com/yaqingwang/WeFEND-AAAI20/blob/master/figs/current_fake_real.pdf">
@@ -35,7 +35,7 @@ news?
     </embed>
 </object>
 
-<img src="https://github.com/yaqingwang/WeFEND-AAAI20/blob/master/figs/fake_news.pdf" width="256">  <img src="https://github.com/yaqingwang/WeFEND-AAAI20/blob/master/figs/fake_reports.pdf" width="256">
+<img src="https://github.com/yaqingwang/WeFEND-AAAI20/blob/master/figs/fake_news.jpeg" width="256">  <img src="https://github.com/yaqingwang/WeFEND-AAAI20/blob/master/figs/fake_reports.jpeg" width="256">
  
 
 
