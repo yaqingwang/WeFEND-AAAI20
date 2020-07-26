@@ -1,10 +1,5 @@
 # WeFEND-AAAI20
 
-[2020-07-26] We collected more data and make it public.
-
-
-
-
 
 [Weak Supervision for Fake News Detection via Reinforcement Learning](https://arxiv.org/abs/1912.12520)  
  [Yaqing Wang](http://www.acsu.buffalo.edu/~yaqingwa/),
@@ -41,3 +36,11 @@ news?
 
 
 
+## Dataset
+
+[2020-07-26] We collected more data and make it public.
+└── data/    
+    └── train/
+    └── test/
+    └── unlabeled data/
+       
