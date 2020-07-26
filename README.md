@@ -23,6 +23,17 @@
    
 
 ```
+
+### Data Statistics
+
+|   |# of data   | # of fake news   |
+|---|---|---|
+|**train**   |  10,587<br>  |2,743<br>  |
+|**test**   |10,141 <br> |1,482<br>|
+|**unlabeled news**   |67,748 <br> |-<br>|
+
+
+### Data Description
 | Columns  |Description   | 
 |---|---|
 |**Official Account Name**   | The name of official account, news publisher <br>  |
