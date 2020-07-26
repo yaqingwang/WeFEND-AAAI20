@@ -1,4 +1,18 @@
+# WeFEND-AAAI20
 
+
+[Weak Supervision for Fake News Detection via Reinforcement Learning](https://arxiv.org/abs/1912.12520)  
+ [Yaqing Wang](http://www.acsu.buffalo.edu/~yaqingwa/),
+ Weifeng Yang,
+ [Fenglong Ma](http://www.personal.psu.edu/ffm5105/), 
+  Jin Xu, Bin Zhong, Qiang Deng,
+ [Jing Gao](https://cse.buffalo.edu/~jing/)
+ 
+ SUNY Buffalo. AAAI, 2020.
+ 
+ 
+ 
+ 
 ## Dataset
 ```
 [2020-07-26] We collected more data and make it public.
@@ -17,21 +31,6 @@
 |**Image Url**   |The url of cover image <br> |
 |**Report Content**   |The reports from reader, split by ## <br> |
 |**label**   |label of news, 0 is real and 1 is fake <br> |
-
-
-
-# WeFEND-AAAI20
-
-
-[Weak Supervision for Fake News Detection via Reinforcement Learning](https://arxiv.org/abs/1912.12520)  
- [Yaqing Wang](http://www.acsu.buffalo.edu/~yaqingwa/),
- Weifeng Yang,
- [Fenglong Ma](http://www.personal.psu.edu/ffm5105/), 
-  Jin Xu, Bin Zhong, Qiang Deng,
- [Jing Gao](https://cse.buffalo.edu/~jing/)
- 
- SUNY Buffalo. AAAI, 2020.
- 
  
  
  ## Main Idea
