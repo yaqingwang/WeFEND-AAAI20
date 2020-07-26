@@ -6,7 +6,14 @@
     └── train/
     └── test/
     └── unlabeled data/
-The Report Content is can be splited based on ##.
+Example:
+  | Columns | 
+  | Ofiicial Account Name|
+  |Title	|
+  |News Url	|
+  |Image Url	|
+  Report Content	|
+  |label|
 ```
 
 # WeFEND-AAAI20
