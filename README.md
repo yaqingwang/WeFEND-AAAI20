@@ -6,14 +6,17 @@
     └── train/
     └── test/
     └── unlabeled data/
-Example:
-  | Columns | 
-  | Ofiicial Account Name|
-  |Title	|
-  |News Url	|
-  |Image Url	|
-  Report Content	|
-  |label|
+    
+
+| Columns  |Description   | 
+|---|---|
+|**Official Account Name**   | The name of official account, news publisher <br>  |
+|**Title**   |News Title <br> |
+|**News Url**   |The url of news <br> |
+|**Image Url**   |The url of cover image <br> |
+|**Report Content**   |The reports from reader, split by ## <br> |
+|**label**   |label of news, 0 is real and 1 is fake <br> |
+
 ```
 
 # WeFEND-AAAI20
