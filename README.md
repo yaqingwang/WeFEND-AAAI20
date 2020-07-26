@@ -8,7 +8,7 @@ To be updated: Dataset for paper "Weak Supervision for Fake News Detection via R
   Jin Xu, Bin Zhong, Qiang Deng,
  [Jing Gao](https://cse.buffalo.edu/~jing/)
  
- SUNY Buffalo & WeChat, AAAI, 2020.
+ SUNY Buffalo. AAAI, 2020.
  
  
  
@@ -18,7 +18,7 @@ Due to the __dynamic nature__ of news, annotated samples may become __outdated__
 high-quality labeled samples__ is the major challenge in employing deep learning models for fake news detection.
 
 ### Solution: 
-We propose a reinforced weakly supervised fake news detection framework, i.e., WeFEND,
+We propose a reinforced weaklysupervised fake news detection framework, i.e., WeFEND,
 which can __leverage users’ reports as weak supervision__ to enlarge the amount of training data for fake news detection.
 
 ## Experiment
@@ -27,14 +27,16 @@ We aim to answer two important questions:
   * why should we use the reports to annotate the fake
 news?
 
-<img src="https://github.com/yaqingwang/WeFEND-AAAI20/blob/master/figs/current_fake_real.jpg" width="300">  <img src="https://github.com/yaqingwang/WeFEND-AAAI20/blob/master/figs/future_fake_real.jpg" width="300">
+<img src="https://github.com/yaqingwang/WeFEND-AAAI20/blob/master/figs/current_fake_real.pdf" width="300">  <img src="https://github.com/yaqingwang/WeFEND-AAAI20/blob/master/figs/future_fake_real.pdf" width="300">
 
+<object data="https://github.com/yaqingwang/WeFEND-AAAI20/blob/master/figs/current_fake_real.pdf" width="300" >
+    <embed src="https://github.com/yaqingwang/WeFEND-AAAI20/blob/master/figs/current_fake_real.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/yaqingwang/WeFEND-AAAI20/blob/master/figs/current_fake_real.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
-
-<img src="https://github.com/yaqingwang/WeFEND-AAAI20/blob/master/figs/fake_news.jpg" width="300">  <img src="https://github.com/yaqingwang/WeFEND-AAAI20/blob/master/figs/fake_reports.jpg" width="300">
+<img src="https://github.com/yaqingwang/WeFEND-AAAI20/blob/master/figs/fake_news.pdf" width="256">  <img src="https://github.com/yaqingwang/WeFEND-AAAI20/blob/master/figs/fake_reports.pdf" width="256">
  
 
 
-## To Do
-* Update Experiments
-* Update Dataset
+
