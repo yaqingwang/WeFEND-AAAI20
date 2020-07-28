@@ -52,7 +52,7 @@ Due to the __dynamic nature__ of news, annotated samples may become __outdated__
 high-quality labeled samples__ is the major challenge in employing deep learning models for fake news detection.
 
 ### Solution: 
-We propose a reinforced weaklysupervised fake news detection framework, i.e., WeFEND,
+We propose a reinforced weakly supervised fake news detection framework, i.e., WeFEND,
 which can __leverage users’ reports as weak supervision__ to enlarge the amount of training data for fake news detection.
 
 ## Experiment
