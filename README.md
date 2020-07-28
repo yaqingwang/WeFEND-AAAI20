@@ -53,7 +53,7 @@ high-quality labeled samples__ is the major challenge in employing deep learning
 
 ### Solution: 
 We propose a reinforced weakly supervised fake news detection framework, i.e., WeFEND,
-which can __leverage users’ reports as weak supervision__ to enlarge the amount of training data for fake news detection.
+which can __leverage users’ reports as weak supervision source__ to enlarge the amount of training data for fake news detection.
 
 ## Experiment
 We aim to answer two important questions:
