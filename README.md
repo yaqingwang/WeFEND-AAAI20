@@ -8,7 +8,7 @@
   Jin Xu, Bin Zhong, Qiang Deng,
  [Jing Gao](https://cse.buffalo.edu/~jing/)
  
- SUNY Buffalo. AAAI, 2020.
+ SUNY Buffalo & WeChat. AAAI, 2020.
  
  
  
